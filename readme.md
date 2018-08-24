@@ -6,7 +6,7 @@
 
 ## Description
 #### An Epicodus Intro to Programming lesson.
-#### A basic calculator adding two numbers using a Javascript function. Other functions are available in the `scripts.js` file (minus, multiply and subtract).
+#### A basic calculator adding two numbers using a Javascript function. Other functions are available in the `scripts.js` file (minus, multiply and divide).
 
 ## Setup
 * Clone the repository
